@@ -1,0 +1,15 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+
+ZCZC	W00	0020	L01	SCELE/Discord related
+ZCZC	W00	0020	L03	GitHub and git related, including commit, push, pull
+ZCZC	W00	0020	L11	Assignment #001 ^
+ZCZC	W00	0020	L41	TXT/mylog.txt related
+ZCZC	W00	0010	L12	Assignment #02 ^
+ZCZC	W00	0010	L12	Assignment #06 ^
+ZCZC	W00	0010	L04	GitHub Pages related
+ZCZC	W00	0010	L13	Assignment #03 ^
+ZCZC	W00	0001	L14	Assignment #04
+ZCZC	W00	0060	L09 Weekly Assignments
+ZCZC	W00 3360	L84	Sleep
