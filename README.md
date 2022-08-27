@@ -2,8 +2,10 @@
 
 <div style="text-align: center">
 
-[🌐 GitHub Site](https://cbkadal.github.io/os222/) • [📁 GitHub Repository](https://github.com/cbkadal/os222/) • [📦 Tarball](SandBox/cbkadal.tar.xz) • [📜 Log](TXT/mylog.txt)
+<p>Sebuah repositori untuk mata kuliah Sistem Operasi.</p>
 
-*When nothing goes right, go left.*
+<p><a href="https://hanstm.github.io/os222/">🌐 GitHub Site</a> • <a href="https://github.com/HansTM/os222/">📁 GitHub Repository</a> • <a href="SandBox/cbkadal.tar.xz">📦 Tarball</a> • <a href="TXT/mylog.txt">📜 Log</a></p>
+
+<p style="font-style: italic">When nothing goes right, go left.</p>
 
 </div>
