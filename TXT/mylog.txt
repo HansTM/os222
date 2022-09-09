@@ -2,20 +2,48 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC	W00	0020	L01	SCELE/Discord related
-ZCZC	W00	0020	L03	GitHub/git related
-ZCZC	W00	0020	L11	Assignment #01 ^
-ZCZC	W00	0020	L41	TXT/mylog.txt related
-ZCZC	W00	0010	L12	Assignment #02 ^
-ZCZC	W00	0010	L16	Assignment #06 ^
-ZCZC	W00	0010	L04	GitHub Pages related
-ZCZC	W00	0010	L13	Assignment #03 ^
-ZCZC	W00	0001	L14	Assignment #04
-ZCZC	W00	0120	L09	Weekly Assignments
-ZCZC	W00	0120	L06 References/Books/Documents/Browsing/GSGS related
-ZCZC	W00	0060	L15	Assignment #05 ^
+# Week 1
+
+ZCZC	W00	  20	L01	SCELE activity check
+ZCZC	W00	  20	L03	GitHub (+ git) setup
+ZCZC	W00	  20	L11	Assignment #01 ^
+ZCZC	W00	  20	L41	Start TXT/mylog.txt
+ZCZC	W00	  10	L12	Assignment #02 ^
+ZCZC	W00	  10	L16	Assignment #06 ^
+ZCZC	W00	  10	L04	GitHub Pages related
+ZCZC	W00	  10	L13	Assignment #03 ^
+ZCZC	W00	   1	L14	Assignment #04
+ZCZC	W00	 120	L09	Weekly assignments
+ZCZC	W00	  60	L06 Literature exploring: Course materials
+ZCZC	W00	  60	L15	Assignment #05 ^
+ZCZC	W00	  60	L06 Literature exploring: Additional
+ZCZC	W00	 200	L00 Weekly meetings (offline)
+ZCZC	W00	  20	L05	Quiz time!
+
+ZCZC	W00	1600	L70 Working with other classes/courses
+ZCZC	W00	 600	L87 Meals
+ZCZC	W00	 600	L73 Leisure with video games
 ZCZC	W00	3360	L84	Sleep
-ZCZC	W01	0060	L31	VirtualBox: install GNU/Linux
-ZCZC	W01	0060	L11	Assignment #01 ^
-ZCZC	W00	0120	L06 References/Books/Documents/Browsing/GSGS related
-ZCZC	W00	0120	L12	Assignment #02 ^
+
+# Week 2
+
+ZCZC	W01	  20	L01	SCELE activity check
+ZCZC	W01	  60	L31	VirtualBox: install GNU/Linux
+ZCZC	W01	  60	L11	Assignment #01 ^
+ZCZC	W01	 120	L06 Literature exploring: Course materials 
+ZCZC	W01	 120	L12	Assignment #02 ^
+ZCZC	W01	  30	L06 Literature exploring: Additional
+ZCZC    W01	 200	L02 Weekly meetings (online)  
+ZCZC	W01	  30	L41	Update TXT/mylog.txt
+ZCZC	W01    1	L40 Update TXT/myupdate.txt
+ZCZC	W01   31	L14	Assignment #04 ^
+ZCZC	W01   10	L14	Assignment #03: LINKS.md
+ZCZC	W01	  20	L05	Quiz time!
+ZCZC	W00	  20	L01	Tutorial on Discord (recording catch up)
+
+ZCZC	W01	1600	L70 Working with other classes/courses
+ZCZC	W01	 600	L87 Meals
+ZCZC	W01	 600	L73 Leisure with video games
+ZCZC	W01	3360	L84	Sleep
+
+
