@@ -20,9 +20,9 @@ ZCZC	W00	  60	L06 Literature exploring: Additional
 ZCZC	W00	 200	L00 Weekly meetings (offline)
 ZCZC	W00	  20	L05	Quiz time!
 
-ZCZC	W00	1600	L70 Working with other classes/courses
-ZCZC	W00	 600	L87 Meals
-ZCZC	W00	 600	L73 Leisure with video games
+ZCZC	W00	1600	L70	Working with other classes/courses
+ZCZC	W00	 600	L87	Meals
+ZCZC	W00	 600	L73	Leisure with video games
 ZCZC	W00	3360	L84	Sleep
 
 # Week 2
@@ -42,9 +42,9 @@ ZCZC	W01	  20	L05	Quiz time!
 ZCZC	W01	  20	L01	Tutorial on Discord (recording catch up)
 ZCZC	W01	  60	L04	Website overhaul
 
-ZCZC	W01	1600	L70 Working with other classes/courses
-ZCZC	W01	 600	L87 Meals
-ZCZC	W01	 600	L73 Leisure with video games
+ZCZC	W01	1600	L70	Working with other classes/courses
+ZCZC	W01	 600	L87	Meals
+ZCZC	W01	 600	L73	Leisure with video games
 ZCZC	W01	3360	L84	Sleep
 
 
