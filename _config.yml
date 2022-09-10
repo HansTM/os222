@@ -1,0 +1,13 @@
+title: Hans TM @ Sistem Operasi
+description: Hans TM dalam Sistem Operasi
+baseurl: /os222
+url: https://hanstm.github.io/os222
+
+copyright_year: 2022
+author: Hans TM
+repository: https://github.com/HansTM/os222
+
+markdown: kramdown
+livereload: true
+
+exclude: ["README.md"]

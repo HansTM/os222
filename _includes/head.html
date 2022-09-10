@@ -1,0 +1,30 @@
+<!-- Title and Meta -->
+
+<title>{% if page.title and page.title != 'Index' %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="description" content="{{ page.description }}" />
+<meta name="author" content="{{ site.author }}" />
+
+<meta property="og:type" content="website" />
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{% if page.title and page.title != 'Index' %}{{ page.title }} - {% endif %}{{ site.title }}" />
+<meta property="og:description" content="{{ page.description }}">
+<meta property="og:site_name" content="{{ site.title }}" />
+<meta property="og:locale" content="en_US" />
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="{{ site.twitter }}" />
+<meta name="twitter:creator" content="{{ site.twitter }}" />
+<meta name="twitter:url" content="{{ page.url | absolute_url }}" />
+<meta name="twitter:title" content="{% if page.title and page.title != 'Index' %}{{ page.title }} - {% endif %}{{ site.title }}" />
+<meta name="twitter:description" content="{{ page.description }}" />
+
+<!-- Require Script and Loading Page -->
+
+<!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/bootswatch@4.6.2/dist/flatly/bootstrap.min.css" /> -->
+<link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url }}" />
+<link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}" />
+
+<!-- <script src="https://cdn.jsdelivr.net/combine/npm/jquery@3.5.1/dist/jquery.min.js,npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js,npm/@iconify/iconify@1.0.7"></script> -->
+<script src="{{ '/assets/js/base.js' | relative_url }}"></script>
