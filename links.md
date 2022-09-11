@@ -23,7 +23,7 @@ permalink: /LINKS/.
     - [What is Linux?](https://www.linux.com/what-is-linux/) - Sebuah artikel yang memperkenalkan Linux.
     - [About Debian](https://www.debian.org/intro/about) - Sebuah halaman yang memperkenalkan Debian.
 - [learnshell.org](https://www.learnshell.org/) - Sebuah layanan untuk belajar cara menggunakan bahasa *scripting* Shell di Linux/Unix. Dilengkapi dengan simulator untuk digunakan saat mencoba.
-- [learn-c.org](https://www.learn-c.org/). Sebuah layanan untuk belajar cara menggunakan bahasa C. Dilengkapi dengan simulator untuk digunakan saat mencoba.
+- [learn-c.org](https://www.learn-c.org/) Sebuah layanan untuk belajar cara menggunakan bahasa C. Dilengkapi dengan simulator untuk digunakan saat mencoba.
 - [openvim.com](https://www.openvim.com/) - Sebuah layanan untuk belajar cara menggunakan Vim, dilengkapi dengan simulator dengan panduan.
 - Cheatsheets
     - Bash: [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh), [Quick Reference](https://quickref.me/bash)
@@ -32,5 +32,5 @@ permalink: /LINKS/.
     - awk: [Quick Reference](https://quickref.me/awk)
     - sed: [Quick Reference](https://quickref.me/sed)
     - Vim: [Quick Reference](https://quickref.me/vim)
-    - Markdown: [Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+    - Markdown: [Basic Syntax \| Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
