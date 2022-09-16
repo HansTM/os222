@@ -4,7 +4,7 @@
 
 Selamat datang! Repositori ini digunakan untuk mata kuliah Sistem Operasi, Semester Ganjil 2022/2023.
 
-Situs web ini dibuat dengan Jekyll dan Bootstrap, dan utamanya akan menggunakan Bahasa Indonesia.
+Situs web ini dibuat dengan [Jekyll](https://jekyllrb.com/) dan [Simple.css](https://simplecss.org/), dan utamanya akan menggunakan Bahasa Indonesia.
 
 ## Daftar
 
