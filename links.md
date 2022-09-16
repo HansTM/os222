@@ -24,6 +24,7 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
     - [W3Schools](https://w3schools.com/) - Bagus untuk perkenalan
     - [Tutorials Point](https://www.tutorialspoint.com/) - Lebih sedikit mendalam
     - [Petani Kode](https://www.petanikode.com/) - Menggunakan bahasa Indonesia
+
 ## Week 0-1
 
 - [Operating System Tutorial](https://www.javatpoint.com/os-tutorial) - Sebuah halaman yang memperkenalkan konsep-konsep terhadap sistem operasi. Cocok sebagai referensi dalam mata kuliah ini.
