@@ -1,6 +1,7 @@
 ---
-title: Halaman Utama
 layout: markdown
+title: Halaman Utama
+description: Selamat datang! Repositori ini digunakan untuk mata kuliah Sistem Operasi, Semester Ganjil 2022/2023. Situs web ini dibuat dengan Jekyll dan Simple.css, dan utamanya akan menggunakan Bahasa Indonesia.
 ---
 
 Selamat datang! Repositori ini digunakan untuk mata kuliah Sistem Operasi, Semester Ganjil 2022/2023.

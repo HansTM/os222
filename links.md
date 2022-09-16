@@ -1,6 +1,7 @@
 ---
-title: Links
 layout: markdown
+title: Links
+description: Halaman ini berisi pranala-pranala (*links*) yang berguna dalam, namun tidak terbatas dengan, mata kuliah Sistem Operasi.
 permalink: /LINKS/.
 ---
 
@@ -20,7 +21,7 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
     - [cheat.sh](https://github.com/chubin/cheat.sh)
     - [Quick Reference](https://quickref.me/)
     - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-- Halaman belajar *programming* - Harusnya sudah cukup deskriptif.
+- Halaman belajar *programming* - Harusnya sudah cukup deskriptif betapa bergunanya ini.
     - [W3Schools](https://w3schools.com/) - Bagus untuk perkenalan
     - [Tutorials Point](https://www.tutorialspoint.com/) - Lebih sedikit mendalam
     - [Petani Kode](https://www.petanikode.com/) - Menggunakan bahasa Indonesia
