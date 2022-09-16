@@ -1,32 +1,21 @@
-<header><nav class="navbar navbar-expand-md bg-primary navbar-dark">
-	<a class="navbar-brand" href="{{ '/' | relative_url }}">
-		{{ site.title }}
-	</a>
-	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-		<span class="navbar-toggler-icon"></span>
-	</button>
-	<div class="collapse navbar-collapse" id="collapsibleNavbar">
-		<ul class="navbar-nav">
-			<li class="nav-item dropdown">
-				<a class="nav-link" href="https://github.com/HansTM/os222/">
-					📁 Repository
-				</a>
-			</li>
-			<li class="nav-item dropdown">
-				<a class="nav-link" href='{{ "/SandBox/HansTM.tar.xz" | relative_url }}'>
-					📦 Tarball
-				</a>
-			</li>
-			<li class="nav-item dropdown">
-				<a class="nav-link" href='{{ "/TXT/mylog.txt" | relative_url }}'>
-					📜 Log
-				</a>
-			</li>
-			<li class="nav-item dropdown">
-				<a class="nav-link" href='{{ "/LINKS" | relative_url }}''>
-					🔗 Links
-				</a>
-			</li>
-		</ul>
-	</div>
-</nav></header>
+<header>
+	<nav>
+		<a class="nav-link" href='{{ "/" | relative_url }}'>
+			🌐 Website
+		</a>
+		<a class="nav-link" href="https://github.com/HansTM/os222/">
+			📁 Repository
+		</a>
+		<a class="nav-link" href='{{ "/SandBox/HansTM.tar.xz" | relative_url }}'>
+			📦 Tarball
+		</a>
+		<a class="nav-link" href='{{ "/TXT/mylog.txt" | relative_url }}'>
+			📜 Log
+		</a>
+		<a class="nav-link" href='{{ "/LINKS" | relative_url }}''>
+			🔗 Links
+		</a>
+
+	</nav>
+	<h1>Hans TM @ Sistem Operasi</h1>
+</header>
