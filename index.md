@@ -11,6 +11,8 @@ Situs web ini dibuat dengan [Jekyll](https://jekyllrb.com/) dan [Simple.css](htt
 
 - [Links](LINKS)
 - [TXT/mylog.txt](TXT/mylog.txt)
+- [TXT/mypubkey.txt](TXT/mypubkey.txt)
+- [TXT/myscript.sh](TXT/myupdate.sh)
 - [TXT/myupdate.txt](TXT/myupdate.txt)
 
 ## Referensi Utama
