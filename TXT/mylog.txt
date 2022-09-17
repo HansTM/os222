@@ -56,15 +56,18 @@ ZCZC	W02	 200	L02	Weekly meetings (online)
 ZCZC	W02	 120	L06	Literature exploring: Course materials 
 ZCZC	W02	 120	L11	Assignment #01 ^
 ZCZC	W02	  60	L06	Literature exploring: Additional
-ZCZC	W02	  30	L26 Figuring out GPG
+ZCZC	W02	  30	L26	Figuring out GPG
 ZCZC	W02	  30	L12	Assignment #02 ^
 ZCZC	W02	  10	L04	Quick website changes
 ZCZC	W02	  20	L05	Quiz time!
-ZCZC	W02	  10	L14	Assignment #04: Script Download
+ZCZC	W02	   2	L44	Update TXT/myscript.sh
+ZCZC	W02	  10	L14	Assignment #04: Script Download ^
 ZCZC	W02	  10	L13	Assignment #03: Update LINKS.md
-ZCZC	W02	  10	L41	Update TXT/mylog.txt
 ZCZC	W02	   1	L40	Update TXT/myupdate.txt
-# ZCZC	W02	  11	L16	Assignment #06 ^
+ZCZC	W02	  10	L41	Update TXT/mylog.txt
+ZCZC	W02	   1	L42	Update TXT/mypubkey.txt
+ZCZC	W02	  10	L43	Links Review
+# ZCZC	W02	  22	L16	Assignment #06 ^
 
 ZCZC	W02	1600	L70	Working with other classes/courses
 ZCZC	W02	 600	L87	Meals
