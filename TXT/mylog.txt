@@ -61,13 +61,14 @@ ZCZC	W02	  30	L12	Assignment #02 ^
 ZCZC	W02	  10	L04	Quick website changes
 ZCZC	W02	  20	L05	Quiz time!
 ZCZC	W02	   2	L44	Update TXT/myscript.sh
-ZCZC	W02	  10	L14	Assignment #04: Script Download ^
+ZCZC	W02	  10	L15	Assignment #05: Script Download ^
 ZCZC	W02	  10	L13	Assignment #03: Update LINKS.md
+ZCZC	W02	  10	L43	Links Review
+ZCZC	W02	  10	L14	Assignment #04 ^
 ZCZC	W02	   1	L40	Update TXT/myupdate.txt
 ZCZC	W02	  10	L41	Update TXT/mylog.txt
 ZCZC	W02	   1	L42	Update TXT/mypubkey.txt
-ZCZC	W02	  10	L43	Links Review
-ZCZC	W02	  22	L16	Assignment #06 ^
+ZCZC	W02	  12	L16	Assignment #06 ^
 
 ZCZC	W02	1600	L70	Working with other classes/courses
 ZCZC	W02	 600	L87	Meals
