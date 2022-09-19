@@ -2,7 +2,7 @@
 layout: markdown
 title: Links
 description: Halaman ini berisi pranala-pranala (*links*) yang berguna dalam, namun tidak terbatas dengan, mata kuliah Sistem Operasi.
-permalink: /LINKS/.
+permalink: /LINKS/
 ---
 
 Halaman ini berisi pranala-pranala (*links*) yang berguna dalam, namun tidak terbatas dengan, mata kuliah Sistem Operasi.
