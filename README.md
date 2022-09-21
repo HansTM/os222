@@ -1,6 +1,6 @@
 # os222
 
-<p style="text-align: center"><a href="https://hanstm.github.io/os222/">🌐 Website</a> • <a href="https://github.com/HansTM/os222/">📁 Repository</a> • <a href="SandBox/HansTM.tar.xz">📦 Tarball</a> • <a href="TXT/mylog.txt">📜 Log</a> • <a href="links.md">🔗 Links</a></p>
+<p style="text-align: center"><a href="https://hanstm.github.io/os222/">🌐 Website</a> • <a href="https://github.com/HansTM/os222/">📁 Repository</a> • <a href="TXT/mylog.txt">📜 Log</a> • <a href="links.md">🔗 Links</a></p>
 
 Selamat datang! Repositori ini digunakan untuk mata kuliah Sistem Operasi, Semester Ganjil 2022/2023.
 
@@ -9,7 +9,9 @@ Situs web ini dibuat dengan [Jekyll](https://jekyllrb.com/) dan [Simple.css](htt
 ## Daftar
 
 - [Links](LINKS)
-- [TXT/mylog.txt](TXT/mylog.txt)
+- [Log (TXT/mylog.txt)](TXT/mylog.txt)
+- [Public Key (TXT/mypubkey.txt)](TXT/mypubkey.txt)
+- [TXT/myscript.sh](TXT/myupdate.sh)
 - [TXT/myupdate.txt](TXT/myupdate.txt)
 
 ## Referensi Utama
