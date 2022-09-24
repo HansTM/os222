@@ -47,8 +47,14 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 
 ## Week 2
 
-- [learn-c.org](https://www.learn-c.org/) Sebuah layanan untuk belajar cara menggunakan bahasa C. Dilengkapi dengan simulator untuk digunakan saat mencoba.
-    - [C Tutorial (Tutorials Point)](https://www.tutorialspoint.com/cprogramming/index.htm) - Lebih lengkap dari sebelumnya, sebagai referensi untuk belajar menggunakan bahasa C.
+- [learn-c.org](https://www.learn-c.org/) - Sebuah layanan untuk belajar cara menggunakan bahasa C. Dilengkapi dengan simulator untuk digunakan saat mencoba.
+    - [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm) - Lebih lengkap dari sebelumnya, sebagai referensi untuk belajar menggunakan bahasa C.
 - [Cryptography (SearchSecurity)](https://www.techtarget.com/searchsecurity/definition/cryptography) - Pengenalan singkat tentang kriptografi.
 - Cheatsheets
     - chmod: [Quick Reference](https://quickref.me/chmod)
+
+## Week 3
+
+- [What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples](https://www.freecodecamp.org/news/file-systems-architecture-explained/) - Penjelasan tentang beberapa arsitektur *file system* yang tersedia.
+- [An introduction to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems) - Penjelasan tentang *file system* di Linux, seperti *overview*-nya, *directory structure*, tipe *filesystem*.
+- [User Space File Systems: Pros and Cons](https://www.linuxtoday.com/blog/user-space-file-systems/) - Artikel yang mendalami *file system in user space*. Dijelaskan kenapa *user space file system* ada, dan kelebihan dan kekurangannya.

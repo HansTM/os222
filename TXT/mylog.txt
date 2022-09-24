@@ -81,12 +81,18 @@ ZCZC	W03	  20	L01	SCELE activity check
 ZCZC	W03	 200	L02	Weekly meetings (online)  
 ZCZC	W03	 120	L06	Literature exploring: Course materials 
 ZCZC	W03	 120	L11	Assignment #01 ^
-#ZCZC	W03	  20	L05	Quiz time (2)!
-#ZCZC	W03	  20	L05	Quiz time (1)!
-#ZCZC	W03	  10	L13	Update LINKS.md
+ZCZC	W03	  60	L06	Literature exploring: Additional
+ZCZC	W03	   5	L23	Learning sed, awk, grep again for quiz
+ZCZC	W03	  15	L05	Quiz time (2)!
+ZCZC	W03	  20	L05	Quiz time (1)!
+ZCZC	W03	  20	L31	Set up additional virtual hard drive
+ZCZC	W03	  20	L12	Assignment #02 ^
+ZCZC	W03	  10	L26	Using GPG for pop quiz
+ZCZC	W03	  10	L05	Pop Quiz time! ^
+ZCZC	W03	  10	L13	Update LINKS.md
 ZCZC	W03	   1	L40	Update TXT/myupdate.txt
-#ZCZC	W03	  10	L41	Update TXT/mylog.txt
-ZCZC	W03	  10	L43	Update TXT/myrank.txt (Links Review)
+ZCZC	W03	  10	L41	Update TXT/mylog.txt
+ZCZC	W03	  10	L43	Links Review
 ZCZC	W03	  12	L13	Assignment #03 ^
 
 ZCZC	W03	1600	L70	Working with other classes/courses

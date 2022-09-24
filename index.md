@@ -13,8 +13,13 @@ Situs web ini dibuat dengan [Jekyll](https://jekyllrb.com/) dan [Simple.css](htt
 - [Links](LINKS)
 - [Log (TXT/mylog.txt)](TXT/mylog.txt)
 - [Public Key (TXT/mypubkey.txt)](TXT/mypubkey.txt)
-- [TXT/myscript.sh](TXT/myupdate.sh)
+- [TXT/myscript.sh](TXT/myscript.sh)
 - [TXT/myupdate.txt](TXT/myupdate.txt)
+- [TXT/myrank.txt](TXT/myrank.txt)
+- Tugas Mingguan
+	- [W02](TXT/myW02.tar.bz2.asc)
+	- [W03](TXT/myW03.tar.bz2.asc)
+- [SHA256SUM](TXT/SHA256SUM) ([terenkripsi](TXT/SHA256SUM.asc))
 
 ## Referensi Utama
 
