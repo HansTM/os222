@@ -110,16 +110,16 @@ ZCZC	W04	  60	L06	Literature exploring: Additional
 ZCZC	W04	  10	L22 Change username to fix ATTN issues
 ZCZC	W04	  10	L25 Using C for quiz (1)
 ZCZC	W04	  10	L05	Quiz time! (2)
-#ZCZC	W04	  20	L05	Quiz time!
+ZCZC	W04	  20	L05	Quiz time! (1)
 ZCZC	W04	  10	L25	Using C for pop quiz (1)
 ZCZC	W04	   2	L22	Using tar for pop quiz (1)
 ZCZC	W04	   2	L26	Using GPG for pop quiz (1)
 ZCZC	W04	  12	L05	Pop Quiz time! (1) ^
 ZCZC	W04	  10	L27	SSH stuff for connecting to os1 server
 ZCZC	W04	   5	L05	Pop Quiz time! (2) ^
+ZCZC	W04	  10	L41	Update TXT/mylog.txt
+ZCZC	W04	   1	L40	Update TXT/myupdate.txt
 #ZCZC	W04	  10	L13	Update LINKS.md
-#ZCZC	W04	   1	L40	Update TXT/myupdate.txt
-#ZCZC	W04	  10	L41	Update TXT/mylog.txt
 #ZCZC	W04	  10	L43	Links Review
 #ZCZC	W04	  12	L13	Assignment #03 ^
 
