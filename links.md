@@ -58,3 +58,9 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 - [What Is a File System? Types of Computer File Systems and How they Work – Explained with Examples](https://www.freecodecamp.org/news/file-systems-architecture-explained/) - Penjelasan tentang beberapa arsitektur *file system* yang tersedia.
 - [An introduction to Linux filesystems](https://opensource.com/life/16/10/introduction-linux-filesystems) - Penjelasan tentang *file system* di Linux, seperti *overview*-nya, *directory structure*, tipe *filesystem*.
 - [User Space File Systems: Pros and Cons](https://www.linuxtoday.com/blog/user-space-file-systems/) - Artikel yang mendalami *file system in user space*. Dijelaskan kenapa *user space file system* ada, dan kelebihan dan kekurangannya.
+
+## Week 4
+
+- [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) - Rangkuman tentang manajemen memori di sistem operasi. Saya bacanya di akhir, namun lumayan mencakup tentang materi yang dijelaskan, seperti *swapping*, *alokasi memori*, *paging*, dan lain-lain.
+- [What is memory mapping in Linux?](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html) - Penjelasan tentang fitur *memory mapping* yang ada di Linux/Unix, yang merupakan sebuah cara untuk menempatkan suatu bagian di *disk* pada *address space* aplikasi.
+- [Makefile Tutorial by Examples](https://makefiletutorial.com/) - Sebuah halaman yang menjelaskan cara menggunakan Makefile, yang digunakan oleh Make dalam meng-*compile* aplikasi C dan C++
