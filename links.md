@@ -64,3 +64,9 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 - [Operating System - Memory Management](https://www.tutorialspoint.com/operating_system/os_memory_management.htm) - Rangkuman tentang manajemen memori di sistem operasi. Saya bacanya di akhir, namun lumayan mencakup tentang materi yang dijelaskan, seperti *swapping*, *alokasi memori*, *paging*, dan lain-lain.
 - [What is memory mapping in Linux?](https://frameboxxindore.com/linux/what-is-memory-mapping-in-linux.html) - Penjelasan tentang fitur *memory mapping* yang ada di Linux/Unix, yang merupakan sebuah cara untuk menempatkan suatu bagian di *disk* pada *address space* aplikasi.
 - [Makefile Tutorial by Examples](https://makefiletutorial.com/) - Sebuah halaman yang menjelaskan cara menggunakan Makefile, yang digunakan oleh Make dalam meng-*compile* aplikasi C dan C++
+
+## Week 5
+
+- [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) - Rangkuman tentang *virtual memory* di sistem operasi. Berisi penjelasan tentang *demand paging*, algoritma-algoritma untuk *page replacement* yang digunakan, dan sebagainya.
+- [What is Thrash?](https://www.javatpoint.com/what-is-thrash) - Artikel yang menjelaskan tentang *thrash* dan *thrashing*, yang dapat terjadi pada *virtual memory* saat lebih banyak menyimpan di *virtual memory* daripada di *main memory*.
+- [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/) - Artikel yang menjelaskan tentang *cache memory* dari sudut komputer.
