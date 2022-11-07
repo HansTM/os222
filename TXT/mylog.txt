@@ -139,16 +139,51 @@ ZCZC	W05	  10	L31	Tinkering with memory and stuff: How low can it goes
 ZCZC	W05	  10	L12	Assignment #02 ^
 ZCZC	W05	   2	L13	Assignment #03
 ZCZC	W05	  10	L25	Editing C files for the assignment
-ZCZC	W05	  10	L13	Assignment #04 ^
+ZCZC	W05	  10	L14	Assignment #04 ^
 ZCZC	W05	  10	L05	Quiz time! (2)
 ZCZC	W05	  20	L05	Quiz time! (1)
 ZCZC	W05	  10	L41	Update TXT/mylog.txt
 ZCZC	W05	   1	L40	Update TXT/myupdate.txt
 ZCZC	W05	  10	L13	Update LINKS.md
 ZCZC	W05	  10	L43	Links Review
-ZCZC	W05	  31	L13	Assignment #05 ^
+ZCZC	W05	  31	L15	Assignment #05 ^
 
 ZCZC	W05	1600	L70	Working with other classes/courses
 ZCZC	W05	 600	L87	Meals
 ZCZC	W05	 600	L73	Leisure with video games
 ZCZC	W05	3360	L84	Sleep
+
+# Pre-Week 6
+
+ZCZC	W06	  20	L01	SCELE activity check
+ZCZC	W06	  30	L05 Pop Quiz, pre-week 6
+ZCZC	W06	  10	L25	... Doing C and Makefiles
+ZCZC	W06	  20	L22 ... Doing Linux CLI
+ZCZC	W06	3300	L70	Studying for tests and working with other classes (2 weeks)
+
+ZCZC	W06	1200	L87	Meals (2 weeks)
+ZCZC	W06	1200	L73	Leisure (2 weeks)
+ZCZC	W06	6720	L84	Sleep (2 weeks)
+
+# Week 6
+
+ZCZC	W06	  20	L01	SCELE activity check
+ZCZC	W06	 200	L02	Weekly meetings (now offline)
+ZCZC	W06	 120	L11	Assignment #01 
+ZCZC	W06	 120	L06	... Literature exploring: Main materials 
+ZCZC	W06	  60	L06	Literature exploring: Additionals
+ZCZC	W06	  10	L12	Assignment #02
+ZCZC	W06	  30	L13	Assignment #03
+ZCZC	W06	  30	L01 ... Checking how it works...
+ZCZC	W06	  20	L05	Quiz time! (1)
+ZCZC	W06	  10	L05	Quiz time! (2) (but not) 
+ZCZC	W06	  31	L13	Assignment #04
+ZCZC	W06	  10	L41	... Update TXT/mylog.txt
+ZCZC	W06	   1	L40	... Update TXT/myupdate.txt
+ZCZC	W06	  10	L00	... Update LINKS.md
+ZCZC	W06	  10	L43	... Update TXT/myrank.txt (Links Review)
+
+ZCZC	W06	1600	L70	Working with other classes/courses
+ZCZC	W06	 600	L87	Meals
+ZCZC	W06	 600	L73	Leisure
+ZCZC	W06	3360	L84	Sleep
