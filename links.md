@@ -70,3 +70,9 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 - [Operating System - Virtual Memory](https://www.tutorialspoint.com/operating_system/os_virtual_memory.htm) - Rangkuman tentang *virtual memory* di sistem operasi. Berisi penjelasan tentang *demand paging*, algoritma-algoritma untuk *page replacement* yang digunakan, dan sebagainya.
 - [What is Thrash?](https://www.javatpoint.com/what-is-thrash) - Artikel yang menjelaskan tentang *thrash* dan *thrashing*, yang dapat terjadi pada *virtual memory* saat lebih banyak menyimpan di *virtual memory* daripada di *main memory*.
 - [Cache Memory in Computer Organization](https://www.geeksforgeeks.org/cache-memory-in-computer-organization/) - Artikel yang menjelaskan tentang *cache memory* dari sudut komputer.
+
+## Week 6
+
+- [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes) - Artikel tentang *process*, yang juga dijelaskan bahwa *process* tidaklah sama dengan *program*.
+- [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/) - Artikel singkat yang menjelaskan *thread*. Sekalian juga perbedaan antara *process* dan *thread*. 
+- [Concurrency in Operating System](https://www.javatpoint.com/concurrency-in-operating-system) - Artikel yang menjelaskan *concurrency* di sistem operasi, termasuk prinsip, kelebihan/kekurangan, dan isu.
