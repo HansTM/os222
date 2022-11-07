@@ -76,3 +76,4 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 - [Process in Operating System](https://www.studytonight.com/operating-system/operating-system-processes) - Artikel tentang *process*, yang juga dijelaskan bahwa *process* tidaklah sama dengan *program*.
 - [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/) - Artikel singkat yang menjelaskan *thread*. Sekalian juga perbedaan antara *process* dan *thread*. 
 - [Concurrency in Operating System](https://www.javatpoint.com/concurrency-in-operating-system) - Artikel yang menjelaskan *concurrency* di sistem operasi, termasuk prinsip, kelebihan/kekurangan, dan isu.
+- [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) -  Artikel singkat tentang fungsi `fork()`, dan bagaimana caranya bekerja.
