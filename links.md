@@ -21,10 +21,12 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
     - [cheat.sh](https://github.com/chubin/cheat.sh)
     - [Quick Reference](https://quickref.me/)
     - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
-- Halaman belajar *programming* - Harusnya sudah cukup deskriptif betapa bergunanya ini.
-    - [W3Schools](https://w3schools.com/) - Bagus untuk perkenalan
-    - [Tutorials Point](https://www.tutorialspoint.com/) - Lebih sedikit mendalam
-    - [Petani Kode](https://www.petanikode.com/) - Menggunakan bahasa Indonesia
+- Referensi-referensi dengan pengetahuan umum - Harusnya sudah cukup deskriptif betapa bergunanya ini.
+    - [OSDev.org](https://wiki.osdev.org/Main_Page) - Deskriptif terkait segalanya tentang pembuatan OS.
+    - [Tutorials Point](https://www.tutorialspoint.com/) - Perkenalan dan sedikit mendalam
+    - [Geeks4Geeks](https://www.geeksforgeeks.org/) - Perkenalan dan sedikit mendalam
+    - [W3Schools](https://w3schools.com/) - Untuk programming saja, bagus untuk orang awam
+    - [Petani Kode](https://www.petanikode.com/) - Untuk programming saja, menggunakan bahasa Indonesia
 
 ## Week 0-1
 
@@ -77,3 +79,9 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 - [Thread in Operating System](https://www.geeksforgeeks.org/thread-in-operating-system/) - Artikel singkat yang menjelaskan *thread*. Sekalian juga perbedaan antara *process* dan *thread*. 
 - [Concurrency in Operating System](https://www.javatpoint.com/concurrency-in-operating-system) - Artikel yang menjelaskan *concurrency* di sistem operasi, termasuk prinsip, kelebihan/kekurangan, dan isu.
 - [fork() in C](https://www.geeksforgeeks.org/fork-system-call/) -  Artikel singkat tentang fungsi `fork()`, dan bagaimana caranya bekerja.
+
+## Week 7
+
+- [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) - Artikel singkat yang menjelaskan tentang *process synchronization* di sistem operasi. Ini perlu diperhatikan, takutnya ada proses yang memerlukan proses lain.
+- [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) - Artikel singkat yang menjelaskan tentang *deadlock*, di sistem operasi. *Deadlock* adalah saat suatu proses menunggu suatu proses lain yang menggunakan suatu *resource*, dan proses lain itu juga menunggu *resource* yang digunakan oleh proses sebelumnya.
+- [Monitor vs Semaphore](https://www.geeksforgeeks.org/monitor-vs-semaphore/) & [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/) - Artikel yang menjelaskan perbedaan antara monitor, mutex, dan semaphore. Monitor dan semaphore adalah kedua cara untuk menyelesaikan masalah *critical selection*. Semaphore adalah generalisasi dari mutex, namun keduanya memiliki kegunaan yang berbeda.
