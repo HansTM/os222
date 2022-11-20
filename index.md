@@ -19,6 +19,11 @@ Situs web ini dibuat dengan [Jekyll](https://jekyllrb.com/) dan [Simple.css](htt
 - Tugas Mingguan
 	- [W02](TXT/myW02.tar.bz2.asc)
 	- [W03](TXT/myW03.tar.bz2.asc)
+	- [W04](TXT/myW04.tar.bz2.asc)
+	- [W05](TXT/myW05.tar.bz2.asc)
+	- [W06](TXT/myW06.tar.bz2.asc)
+	- [W07](TXT/myW07.tar.bz2.asc)
+	- [W08](TXT/myW08.tar.bz2.asc)
 - [SHA256SUM](TXT/SHA256SUM) ([terenkripsi](TXT/SHA256SUM.asc))
 
 ## Referensi Utama

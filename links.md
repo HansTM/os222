@@ -85,3 +85,8 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 - [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) - Artikel singkat yang menjelaskan tentang *process synchronization* di sistem operasi. Ini perlu diperhatikan, takutnya ada proses yang memerlukan proses lain.
 - [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/) - Artikel singkat yang menjelaskan tentang *deadlock*, di sistem operasi. *Deadlock* adalah saat suatu proses menunggu suatu proses lain yang menggunakan suatu *resource*, dan proses lain itu juga menunggu *resource* yang digunakan oleh proses sebelumnya.
 - [Monitor vs Semaphore](https://www.geeksforgeeks.org/monitor-vs-semaphore/) & [Mutex vs Semaphore](https://www.geeksforgeeks.org/mutex-vs-semaphore/) - Artikel yang menjelaskan perbedaan antara monitor, mutex, dan semaphore. Monitor dan semaphore adalah kedua cara untuk menyelesaikan masalah *critical selection*. Semaphore adalah generalisasi dari mutex, namun keduanya memiliki kegunaan yang berbeda.
+
+## Week 08
+
+- [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) - Rangkuman tentang *process scheduling*: apa itu, modelnya, tipenya, dsb. *Process scheduling* adalah aktivitas *process manager* yang menangani kapan suatu proses berjalan atau berhenti dengan suatu strategi tertentu.
+- [Scheduling Algorithms](https://www.javatpoint.com/os-scheduling-algorithms) - Penjelasan tentang algoritma *scheduling* yang dapat digunakan.
