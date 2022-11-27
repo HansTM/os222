@@ -23,6 +23,7 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
     - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - Referensi-referensi dengan pengetahuan umum - Harusnya sudah cukup deskriptif betapa bergunanya ini.
     - [OSDev.org](https://wiki.osdev.org/Main_Page) - Deskriptif terkait segalanya tentang pembuatan OS.
+    - [Operating System Design (Wikibooks)](https://en.wikibooks.org/wiki/Operating_System_Design) - Deskriptif, namun lebih mudah dipahami
     - [Tutorials Point](https://www.tutorialspoint.com/) - Perkenalan dan sedikit mendalam
     - [Geeks4Geeks](https://www.geeksforgeeks.org/) - Perkenalan dan sedikit mendalam
     - [W3Schools](https://w3schools.com/) - Untuk programming saja, bagus untuk orang awam
@@ -90,3 +91,9 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 
 - [Operating System - Process Scheduling](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm) - Rangkuman tentang *process scheduling*: apa itu, modelnya, tipenya, dsb. *Process scheduling* adalah aktivitas *process manager* yang menangani kapan suatu proses berjalan atau berhenti dengan suatu strategi tertentu.
 - [Scheduling Algorithms](https://www.javatpoint.com/os-scheduling-algorithms) - Penjelasan tentang algoritma *scheduling* yang dapat digunakan.
+
+## Week 9
+
+- [MBR vs GPT](https://www.freecodecamp.org/news/mbr-vs-gpt-whats-the-difference-between-an-mbr-partition-and-a-gpt-partition-solved/) - Artikel yang menjelaskan tentang perbedaan antara Master Boot Record (MBR) dan GUID Partition Table (GPT), sekalian dengan BIOS-nya.
+- [Bootloader (Wikibooks)](https://en.wikibooks.org/wiki/Operating_System_Design/Initialization/Bootloader) - Sedikit terkait dengan MBR dan GPT. Penjelasan tentang *bootloader* secara sederhana.
+- (Disk Scheduling Algorithms)[https://www.geeksforgeeks.org/disk-scheduling-algorithms/] - Artikel yang menjelaskan tentang algoritma *disk scheduling* yang dapat digunakan.
