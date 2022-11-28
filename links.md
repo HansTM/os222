@@ -96,4 +96,5 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 
 - [MBR vs GPT](https://www.freecodecamp.org/news/mbr-vs-gpt-whats-the-difference-between-an-mbr-partition-and-a-gpt-partition-solved/) - Artikel yang menjelaskan tentang perbedaan antara Master Boot Record (MBR) dan GUID Partition Table (GPT), sekalian dengan BIOS-nya.
 - [Bootloader (Wikibooks)](https://en.wikibooks.org/wiki/Operating_System_Design/Initialization/Bootloader) - Sedikit terkait dengan MBR dan GPT. Penjelasan tentang *bootloader* secara sederhana.
-- (Disk Scheduling Algorithms)[https://www.geeksforgeeks.org/disk-scheduling-algorithms/] - Artikel yang menjelaskan tentang algoritma *disk scheduling* yang dapat digunakan.
+- [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/) - Artikel yang menjelaskan tentang algoritma *disk scheduling* yang dapat digunakan.
+- [(Almost) Everything You Need to Know About RAID](https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid) - Artikel yang menjelaskan tentang RAID, terutama tipe-tipenya.
