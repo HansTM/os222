@@ -98,3 +98,6 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 - [Bootloader (Wikibooks)](https://en.wikibooks.org/wiki/Operating_System_Design/Initialization/Bootloader) - Sedikit terkait dengan MBR dan GPT. Penjelasan tentang *bootloader* secara sederhana.
 - [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/) - Artikel yang menjelaskan tentang algoritma *disk scheduling* yang dapat digunakan.
 - [(Almost) Everything You Need to Know About RAID](https://www.steadfast.net/blog/almost-everything-you-need-know-about-raid) - Artikel yang menjelaskan tentang RAID, terutama tipe-tipenya.
+
+## Week 10
+

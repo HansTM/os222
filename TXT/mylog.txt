@@ -258,3 +258,27 @@ ZCZC	W09	1600	L70	Working with other classes/courses
 ZCZC	W09	 600	L87	Meals
 ZCZC	W09	 600	L73	Leisure
 ZCZC	W09	3360	L84	Sleep
+
+# Week 10
+
+ZCZC	W10	  20	L01	SCELE activity check
+ZCZC	W10	 200	L02	Weekly meetings
+ZCZC	W10	 120	L11	Assignment #01 
+ZCZC	W10	 120	L06	... Literature exploring: Main materials 
+ZCZC	W10	  60	L06	Literature exploring: Additionals
+ZCZC	W10	  10	L12	Assignment #02
+ZCZC	W10	 300	L13	Assignment #03
+ZCZC	W10	 300	L22 ... Linux For Scratch (incl. compiling and bug fix)
+ZCZC	W10	  15	L05	Quiz: 2
+ZCZC	W10	  10	L05	Quiz: 1 (missed it again)
+ZCZC	W10	  10	L05	Pop Quiz: all
+ZCZC	W10	  31	L13	Assignment #04
+ZCZC	W10	  10	L41	... Update TXT/mylog.txt
+ZCZC	W10	   1	L40	... Update TXT/myupdate.txt
+ZCZC	W10	  10	L00	... Update LINKS.md
+ZCZC	W10	  10	L43	... Update TXT/myrank.txt (Links Review)
+
+ZCZC	W10	1600	L70	Working with other classes/courses
+ZCZC	W10	 600	L87	Meals
+ZCZC	W10	 600	L73	Leisure
+ZCZC	W10	3360	L84	Sleep
