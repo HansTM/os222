@@ -15,14 +15,6 @@ Situs web ini dibuat dengan [Jekyll](https://jekyllrb.com/) dan [Simple.css](htt
 - [TXT/myupdate.txt](TXT/myupdate.txt)
 - [TXT/myrank.txt](TXT/myrank.txt)
 - Tugas Mingguan
-	- [W02](TXT/myW02.tar.bz2.asc)
-	- [W03](TXT/myW03.tar.bz2.asc)
-	- [W04](TXT/myW04.tar.bz2.asc)
-	- [W05](TXT/myW05.tar.bz2.asc)
-	- [W06](TXT/myW06.tar.bz2.asc)
-	- [W07](TXT/myW07.tar.bz2.asc)
-	- [W08](TXT/myW08.tar.bz2.asc)
-	- [W09](TXT/myW09.tar.bz2.asc)
 	- [W10](TXT/myW10.tar.bz2.asc)
 - [SHA256SUM](TXT/SHA256SUM) ([terenkripsi](TXT/SHA256SUM.asc))
 
