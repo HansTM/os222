@@ -22,6 +22,8 @@ Situs web ini dibuat dengan [Jekyll](https://jekyllrb.com/) dan [Simple.css](htt
 	- [W06](TXT/myW06.tar.bz2.asc)
 	- [W07](TXT/myW07.tar.bz2.asc)
 	- [W08](TXT/myW08.tar.bz2.asc)
+	- [W09](TXT/myW09.tar.bz2.asc)
+	- [W10](TXT/myW10.tar.bz2.asc)
 - [SHA256SUM](TXT/SHA256SUM) ([terenkripsi](TXT/SHA256SUM.asc))
 
 ## Referensi Utama

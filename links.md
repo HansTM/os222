@@ -101,3 +101,7 @@ Link-link di bagian ini bersifat umum. Selain topik-topik seputar mata kuliah si
 
 ## Week 10
 
+- [Operating System - I/O Hardware](https://www.tutorialspoint.com/operating_system/os_io_hardware.htm) dan [Operating System - I/O Softwares](https://www.tutorialspoint.com/operating_system/os_io_software.htm) - Dua artikel yang menjelaskan tentang sistem *I/O* di sistem operasi, dari sisi *software* dan *hardware*.
+- [C - File I/O](https://www.tutorialspoint.com/cprogramming/c_file_io.htm) Artikel yang menjelaskan tentang interaksi I/O pada file dengan menggunakan bahasa pemogramman C.
+- [Socket Programming in C/C++](https://www.geeksforgeeks.org/socket-programming-cc/) - Artikel tentang *socket programming* di C, yang digunakan dalam menghubung dua *node* agar dapat berkomunikasi dari satu dengan yang lainnya.
+- [Linux from Scratch First Impressions: Waste Of Time?](https://www.youtube.com/watch?v=1eOdaXS-wVE) - Video yang baru saya temukan saat akhir-akhir mata kuliah Sistem Operasi. Singkatnya, Anda dapat belajar beberapa hal (jika tidak banyak) dari melakukan LFS. Banyak sebenarnya yang sebenarnya dapat dilompati, jadi pastikan Anda melakukannya dengan cermat dan coba memahaminya jika kalian mau belajar dari ini.
