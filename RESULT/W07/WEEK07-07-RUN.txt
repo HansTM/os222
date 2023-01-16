@@ -1,0 +1,18 @@
+ZCZC PWD /home/HansTM/mywork/WEEK07/SYNC
+ZCZC MAKE
+ZCZC myShareMemory
+ZCZC MSHMEM PID 765 PPID 729 HOST HansTM USER HansTM GROUP HansTM
+ZCZC STAMPX 636F7FD6 AF7658D5 HansTM
+ZCZC SHARE1 WEEK07-MYSHARE.bin 26
+ZCZC SHARE2 DONE
+ZCZC SCRIPT # REV05: Mon 31 Oct 2022 14:00
+ZCZC VERSUM 43:09248C61 43:09248C61
+ZCZC WEEKSQ 07 07
+ZCZC VERDSK Size 15G 0FED1EE1E631
+ZCZC VERLNX 5.10.0-19-amd64
+ZCZC PATHXX /home/HansTM/bin /home/HansTM/bin IS OK
+ZCZC SHMEMD Makefile mylib.c mylib.h myShareMemory.c 4 5 4
+ZCZC hoBIN 00-install-to-bin.sh 01-Version-Check.sh 02-WEEK02.sh 03-WEEK03.sh 04-WEEK04.sh 05-WEEK05a.sh 05-WEEK05b.sh 05-WEEK05.sh 06-WEEK06.sh 07-WEEK07.sh 08-WEEK08.sh 09-WEEK09.sh 10-WEEK10.sh 98-include.sh
+ZCZC ===== ===== RESULT IN /home/HansTM/RESULT/W07/WEEK07-07-RUN.txt ===== ===== ===== ===== =====
+ZCZC ===== ===== Copy file /home/HansTM/RESULT/W07/WEEK07-MYSHARE.bin to os1.cs.ui.ac.id === =====
+ZCZC ===== ===== See also file Z07-File-WEEK07-REPORT2.txt ==== ===== ===== ===== ===== ===== =====

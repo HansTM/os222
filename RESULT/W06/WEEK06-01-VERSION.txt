@@ -1,0 +1,35 @@
+bash, version 5.1.4(1)-release
+/bin/sh -> /usr/bin/bash
+Binutils: (GNU Binutils for Debian) 2.35.2
+bison (GNU Bison) 3.7.5
+/usr/bin/yacc -> /usr/bin/bison.yacc
+Coreutils:  8.32
+diff (GNU diffutils) 3.7
+find (GNU findutils) 4.8.0
+GNU Awk 5.1.0, API: 3.0 (GNU MPFR 4.1.0, GNU MP 6.2.1)
+/usr/bin/awk -> /usr/bin/gawk
+gcc (Debian 10.2.1-6) 10.2.1 20210110
+g++ (Debian 10.2.1-6) 10.2.1 20210110
+grep (GNU grep) 3.6
+gzip 1.10
+Linux version 5.10.0-19-amd64 (debian-kernel@lists.debian.org) (gcc-10 (Debian 10.2.1-6) 10.2.1 20210110, GNU ld (GNU Binutils for Debian) 2.35.2) #1 SMP Debian 5.10.149-2 (2022-10-21)
+m4 (GNU M4) 1.4.18
+GNU Make 4.3
+GNU patch 2.7.6
+Perl version='5.32.1';
+Python 3.9.2
+sed (GNU sed) 4.7
+tar (GNU tar) 1.34
+texi2any (GNU texinfo) 6.7
+xz (XZ Utils) 5.2.5
+g++ compilation OK
+ZCZC SCRIPT # REV03: Mon 03 Oct 2022 11:00
+ZCZC STAMPX 6363F1A3 65B3CD29 HansTM
+ZCZC VERSUM 5F:CE354264 5F:CE354264
+ZCZC WEEKSQ 06 01
+ZCZC XCHECK HOST HansTM USER HansTM GROUP HansTM HOME /home/HansTM/
+ZCZC VERDSK Size 15G 0FED1EE1E631
+ZCZC VERLNX 5.10.0-19-amd64
+ZCZC PATHXX /home/HansTM/bin /home/HansTM/bin IS OK
+ZCZC hoBIN 00-install-to-bin.sh 01-Version-Check.sh 02-WEEK02.sh 03-WEEK03.sh 04-WEEK04.sh 05-WEEK05a.sh 05-WEEK05b.sh 05-WEEK05.sh 06-WEEK06.sh 07-WEEK07.sh 08-WEEK08.sh 09-WEEK09.sh 10-WEEK10.sh 98-include.sh
+ZCZC ===== RESULT IN /home/HansTM/RESULT/W06/WEEK06-01-VERSION.txt =====
